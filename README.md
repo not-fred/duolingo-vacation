@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an *unofficial*, *unapproved* Duolingo “vacation mode”, which works by automatically trying to buy a streak freeze everyday. Since each streak freeze costs 10 lingots, the number of days of your vacation has to be less than the total number of lingots you have divided by 10. If a streak freeze has already been bought, no lingots will be subtracted.
+This is an *unofficial*, *unapproved* Duolingo “vacation mode”, which works by automatically trying to buy a streak freeze every day. Since each streak freeze costs 10 lingots, the number of days of your vacation has to be less than the total number of lingots you have divided by 10. If a streak freeze has already been bought, no lingots will be subtracted.
 
 I hope the instructions are comprehensive enough for everyone to follow.
 
